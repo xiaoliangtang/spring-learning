@@ -1,0 +1,6 @@
+com\spring\learning\ioc\xml\UserService.class
+com\spring\learning\ioc\annotation\MemberLoginService.class
+com\spring\learning\ioc\xml\AppIocXml.class
+com\spring\learning\ioc\AppIoc.class
+com\spring\learning\ioc\annotation\MemberService.class
+com\spring\learning\ioc\annotation\AppIocAnnotation.class
